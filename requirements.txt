@@ -3,5 +3,5 @@ Keras==2.2.4
 matplotlib==3.0.3
 opencv-python==3.4.5.20
 pip-tools==3.9.0
-tensorflow==1.14.0
+tensorflow==2.6.4
 numpy==1.16.4
